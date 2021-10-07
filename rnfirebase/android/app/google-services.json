@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301081835747",
+    "project_id": "learnrnfcm",
+    "storage_bucket": "learnrnfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301081835747:android:5e4f2b39c866fe34796dd6",
+        "android_client_info": {
+          "package_name": "com.rnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301081835747-enakrtl1g1tccu7u88ikvirm1a31guh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUew7wSsSZrndA14KssRulIJYBRNjdAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301081835747-enakrtl1g1tccu7u88ikvirm1a31guh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
